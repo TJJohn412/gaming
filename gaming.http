@@ -1,6 +1,6 @@
 @gaming_HostAddress = http://localhost:5005
 
-GET {{gaming_HostAddress}}/weatherforecast/
+GET {{gaming_HostAddress}}/api/users
 Accept: application/json
 
 ###
